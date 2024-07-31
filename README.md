@@ -31,7 +31,7 @@ cd ccminer
 chmod +x build.sh configure.sh autogen.sh 
 ```
 ```
-./build.sh ---> maaf ini sebelumnya terhapus
+./build.sh 
 ```
 
 3. Jalankan perintah Autorun Miner dengan Ketik perintah-perintah dibawah :
